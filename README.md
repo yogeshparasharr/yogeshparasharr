@@ -44,13 +44,12 @@
 
 ## 🙋‍♂️ About Me
 
-- #### 🔭 I’m currently working on [100xDevs Cohort](https://github.com/KadlagAkash/100xdevs-full-stack-mastery)
+- #### 🔭 I’m currently working on [100xDevs Cohort](https://github.com/yogeshparasharr/100xDevs-0-100-)
 
 - #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
 
 - #### 🎯 2024 Goals: TypeScript Full Stack Ninja 🥷🏻.
-
-- #### 📝 Check out my Articles on: <a href="https://akashkadlag.hashnode.dev" target="_blank">akashkadlag.hashnode.dev</a>
+  
 
 - #### 🙋🏻 Happy to connect Aamzing folks and build Awesome network.
 
