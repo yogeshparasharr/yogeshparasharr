@@ -100,7 +100,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=KadlagAkash&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0D1117" alt="My GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-yogesh-parasharr.vercel.app/?user=yogeshparasharr&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0D1117" alt="My GitHub Streak"/>
 </p>
 
 <br/>
@@ -111,7 +111,7 @@
 
 <br/>
 <p align="center">
-  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+  <img alt="Yogesh Parashar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshparasharr&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
 <p/>
 
 <p align="center">
