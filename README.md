@@ -1,10 +1,7 @@
 <h3 align="center">👨🏻‍💻 Venture Into My Digital Warehouse 𝌏</h3>
 
 <!-- Banner -->
-<p align="center">  
-  <br>
-  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/banner.png">
-<p/>
+
 
 <!-- Typing SVG -->
 <p align ="center">
